@@ -56,9 +56,9 @@ social:
   link: https://github.com/tomatopepper
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link:media/cv.pdf
+# - icon: cv
+# icon_pack: ai
+#  link:media/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "momosan@uga.edu"
@@ -84,3 +84,5 @@ Currently, I am a Phd student at Computational Plant Science lab of University o
 (2) I dissect the genetic components that regulate root architectures under water-sufficient and drought conditions.
 
 (3) I investigate whether the maternal effect of seed size and kin recognition of root neighbors contribute to root architecture diversity.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
