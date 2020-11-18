@@ -27,26 +27,18 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2018-10-01"
+  date_start: "2018-03-18"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
+  title: Python for Genomic Data Science
+  url: "https://www.coursera.org/account/accomplishments/verify/FJML5D5HHNQU"
+- certificate_url: Applied Statistics 
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  date_start: "2016-12-01"
+  description: Overall 12-credits gradaute level statistics cources (Math Statics, Statistical Bioinformatics, Stat I&II in Research) 
+  organization: Department of Statistics, Texas A&M University
+  organization_url: https://online.stat.tamu.edu/certificate-options/
+  title: Applied Statistics 
   url: ""
----
+
