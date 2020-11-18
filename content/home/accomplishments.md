@@ -41,4 +41,4 @@ item:
   organization_url: https://online.stat.tamu.edu/certificate-options/
   title: Applied Statistics 
   url: ""
-
+---
