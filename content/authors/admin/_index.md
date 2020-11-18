@@ -56,9 +56,9 @@ social:
   link: https://github.com/tomatopepper
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: media/cv.pdf
+# - icon: cv
+# icon_pack: ai
+#  link:media/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "momosan@uga.edu"
@@ -77,10 +77,12 @@ I am a life-long learner with unstoppable curiosity, a problem-solver from reali
 
 I determine to make a better world and place for current and future generation and hope I can inspire others to do the same.
 
-Currently, I am is a Phd student at Computational Plant Science lab of University of Georgia. My dissertation is to study how root interact below-ground. Within my research project, I develops high-dimensional data-analysis techniques to describe spatial interaction on the whole field scale. In particular, my research interest is to study the origins of diversity in root architectures of crops by combining knowledge from biology, statistics, and computer science:
+Currently, I am a Phd student at Computational Plant Science lab of University of Georgia. My dissertation is to study how root interact below-ground. Within my research project, I develop high-dimensional data-analysis techniques to describe spatial interaction on the whole field scale. In particular, my research interest is to study the origins of diversity in root architectures of crops by combining knowledge from biology, statistics, and computer science:
 
 (1) I develop a computing pipeline to quantify the diversity of root architectures using mathematical shape descriptors.
 
 (2) I dissect the genetic components that regulate root architectures under water-sufficient and drought conditions.
 
 (3) I investigate whether the maternal effect of seed size and kin recognition of root neighbors contribute to root architecture diversity.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
