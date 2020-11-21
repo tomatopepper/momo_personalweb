@@ -24,5 +24,5 @@ content:
 
 design:
   font_size_min: 1
-  font_size_max: 2
+  font_size_max: 1.5
 ---
