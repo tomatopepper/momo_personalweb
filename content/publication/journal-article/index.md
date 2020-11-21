@@ -26,8 +26,11 @@ abstract: Roots impact plants’ capacity to absorb water and nutrients and thus
 
 # Summary. An optional shortened abstract.
 summary: We detected 29 QTLs for root traits in a tomato interspecifc population (Solanum lycopersicum x Solanum cheesmaniae). Two interesting QTLs that are associated with specifc root length may be useful for selecting a high efficient root system. 
-tags: QTL, Root, GBS, Tomato
-- Source Themes
+tags:
+- QTL
+- Root
+- GBS
+- Tomato
 featured: false
 
 # links:
