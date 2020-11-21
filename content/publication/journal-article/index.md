@@ -31,7 +31,7 @@ tags:
 - Root
 - GBS
 - Tomato
-featured: false
+featured: true
 
 # links:
 # - name: ""
