@@ -32,8 +32,8 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: https://journals.ashs.org/jashs/view/journals/jashs/144/6/article-p394.xml
+url: 'https://journals.ashs.org/jashs/view/journals/jashs/144/6/article-p394.xml'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
