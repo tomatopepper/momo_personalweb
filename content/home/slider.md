@@ -23,7 +23,7 @@ height = ""
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/bubbles-wide.jpg"  
+  overlay_img = "headers/bubbles-wide.jpg"   
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -41,7 +41,7 @@ height = ""
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "headers/header4.jpg" 
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
   # title = "Right"
@@ -49,6 +49,6 @@ height = ""
   # align = "right"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "headers/header3.jpg" 
+  overlay_img = "headers/header3.jpg"  
   # verlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
