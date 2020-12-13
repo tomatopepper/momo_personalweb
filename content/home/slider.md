@@ -15,7 +15,7 @@ height = ""
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
-# [[item]]
+ [[item]]
 #  title = "Science"
 #  content = ""
 #  align = "Left"  # Choose `center`, `left`, or `right`.
