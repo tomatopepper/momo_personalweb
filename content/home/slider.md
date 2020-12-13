@@ -16,7 +16,7 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
  [[item]]
-#  title = "Science"
+  title = "Science"
 #  content = ""
 #  align = "Left"  # Choose `center`, `left`, or `right`.
 
@@ -35,20 +35,20 @@ height = ""
   # cta_icon = "graduation-cap"
 
 [[item]]
-  # title = "Left"
+  title = "Nature"
   # content = "I am left aligned :smile:"
   # align = "left"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "headers/header4.jpg" 
+  overlay_img = "headers/header6.jpg" 
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  # title = "Right"
+  title = "Discovery"
   # content = "I am right aligned :smile:"
   # align = "right"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "headers/header3.jpg"  
+  overlay_img = "headers/header7.jpg"  
   # verlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
