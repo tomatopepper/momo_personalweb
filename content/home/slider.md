@@ -40,7 +40,7 @@ height = ""
   # align = "left"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "/static/media/headers/header4.JPG" 
+  overlay_img = "headers/header4.jpg" 
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -49,6 +49,6 @@ height = ""
   # align = "right"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "/static/media/headers/header3.JPG" 
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_img = "headers/header3.jpg" 
+  # verlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
