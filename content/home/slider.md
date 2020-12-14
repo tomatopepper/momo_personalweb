@@ -17,14 +17,14 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
  [[item]]
   title = "Science"
-#  content = ""
-#  align = "Left"  # Choose `center`, `left`, or `right`.
+  content = ""
+  align = "Left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/bubbles-wide.jpg"   
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_img = "headers/root.jpg"   
+  # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -36,19 +36,19 @@ height = ""
 
 [[item]]
   title = "Nature"
-  # content = "I am left aligned :smile:"
-  # align = "left"
+  content = ""
+  align = "left"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "headers/header6.jpg" 
+  overlay_img = "headers/leaf.jpg" 
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Discovery"
-  # content = "I am right aligned :smile:"
-  # align = "right"
+  content = ""
+  align = "left"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "headers/header7.jpg"  
+  overlay_img = "headers/flower.jpg"  
   # verlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
