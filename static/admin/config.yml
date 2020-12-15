@@ -105,8 +105,8 @@ collections:
         name: "categories"
         required: false
         widget: "list"
-      - label: "Projects"
-        name: "projects"
+      - label: "Notes"
+        name: "notes"
         required: false
         widget: "list"
       - label: "Featured Image"
@@ -125,10 +125,10 @@ collections:
           - {label: Description for screen readers, name: alt_text, widget: string, required: false}
           - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
           - {label: Thumbnail Only?, name: preview_only, widget: boolean, default: false}
-  - name: projects
-    label: Projects
-    label_singular: Project
-    folder: 'content/project'
+  - name: notes
+    label: Notes
+    label_singular: Note
+    folder: 'content/note'
     path: '{{slug}}/index'
     create: true  # Allow users to create new documents in this collection
     fields:  # The fields each document in this collection have
@@ -249,8 +249,8 @@ collections:
         name: "categories"
         required: false
         widget: "list"
-      - label: "Projects (reference projects in 'content/project/')"
-        name: "projects"
+      - label: "Notes (reference projects in 'content/project/')"
+        name: "notes"
         required: false
         widget: "list"
       - label: "Featured Image"
